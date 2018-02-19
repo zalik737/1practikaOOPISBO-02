@@ -1,2 +1,2 @@
-# 1practikaOOPISBO-02
+# 1praktikaOOP_ISBO-02
 # Сделать ответвление данного репозитория
